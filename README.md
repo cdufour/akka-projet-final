@@ -4,7 +4,7 @@ L'entreprise Nuvola, start-up ambitieuse, est en train de développer une applic
 Il s'agit d'une application web réalisée en nodejs/mongodb. 
 Cette application devra offrir au client la possibilité d'enregistrer ses dépenses. 
 
-- Démo de l'application: en cours de mise en ligne...
+- [Démo de l'application](http://ec2-3-71-40-139.eu-central-1.compute.amazonaws.com:4000)
 
 Nuvola souhaite développer rapidement de nouvelles fonctionnalités, et, dans cette optique, elle prévoit de recruter des développeurs supplémentaires. 
 Cependant, ne disposant pas de locaux physiques pour accueillir les développeurs, 
