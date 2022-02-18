@@ -25,7 +25,7 @@ Ainsi, si Jean-Rachid se connecte à sa VM, son bash devra lui apparaître comme
 La machine devra disposer d'un groupe *developers* 
 L'utilisateur devra appartenir au groupe *developers* ainsi qu'au groupe *docker* 
 Une machine de dev devra disposer de: 
-- copie du dépôt local de l'application nuvoquizz (placée dans le home directory de l'utilisateur). L'utilisateur pourra "pousser" des _commits_ sur le dépôt.
+- copie du dépôt local de l'application nuvolapp (placée dans le home directory de l'utilisateur). L'utilisateur pourra "pousser" des _commits_ sur le dépôt.
 - nodejs
 - npm
 - docker
