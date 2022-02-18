@@ -13,14 +13,14 @@ elle souhaite leur fournir des machines virtuelles déjà pré-configurées.
 ## Votre mission chez Nuvola comporte deux tâches principales:
 
 ### Approvisionnement et configuraiton d'une machine de dev
-Permettre de fournir rapidement une machine virtuelle à un développeur intégrant le projet.\  
-Cette machine devra être approvisionnée chez AWS. 
-Le développeur pourra se connecter à sa machine par ssh grâce à une clé rsa privée que vous pourrez lui transmettre. 
-L'administrateur pourra contrôler les machines de dev afin d'exécuter des tâches (installation, copie de fichiers, création de compte utilisateur, etc.) 
-La machine devra disposer d'un compte utilisateur nommé selon le prénom de l'utilisateur, bas de casse, sans accent. Exemple: Jean-Rachid => *jean-rachid*. 
-Le hostname de la machine devra être nommée *nuvola*. 
-Ainsi, si Jean-Rachid se connecte à sa VM, son bash devra lui apparaître comme suit:
-*jean-rachid@nuvola:$*
+Permettre de fournir rapidement une machine virtuelle à un développeur intégrant le projet.  
+Cette machine devra être approvisionnée chez AWS.  
+Le développeur pourra se connecter à sa machine par ssh grâce à une clé rsa privée que vous pourrez lui transmettre.  
+L'administrateur pourra contrôler les machines de dev afin d'exécuter des tâches (installation, copie de fichiers, création de compte utilisateur, etc.)   
+La machine devra disposer d'un compte utilisateur nommé selon le prénom de l'utilisateur, bas de casse, sans accent. Exemple: Jean-Rachid => *jean-rachid*.  
+Le hostname de la machine devra être nommée *nuvola*.  
+Ainsi, si Jean-Rachid se connecte à sa VM, son bash devra lui apparaître comme suit:  
+*jean-rachid@nuvola:$*  
 
 La machine devra disposer d'un groupe *developers* 
 L'utilisateur devra appartenir au groupe *developers* ainsi qu'au groupe *docker* 
