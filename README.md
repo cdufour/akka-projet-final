@@ -13,7 +13,7 @@ elle souhaite leur fournir des machines virtuelles déjà pré-configurées.
 ## Votre mission chez Nuvola comporte deux tâches principales:
 
 ### Approvisionnement et configuraiton d'une machine de dev
-Permettre de fournir rapidement une machine virtuelle à un développeur intégrant le projet.
+Permettre de fournir rapidement une machine virtuelle à un développeur intégrant le projet.\  
 Cette machine devra être approvisionnée chez AWS. 
 Le développeur pourra se connecter à sa machine par ssh grâce à une clé rsa privée que vous pourrez lui transmettre. 
 L'administrateur pourra contrôler les machines de dev afin d'exécuter des tâches (installation, copie de fichiers, création de compte utilisateur, etc.) 
@@ -55,7 +55,7 @@ L'application ayant vocation à être déployée dans un cluster k8s, vous êtes
 ### Livrables attendus
 - Script ou playbook de lancement d'une instance ec2
 - Playbook de configuration d'une machine de dev
-- Dockerfile de l'application nuvoquizz
+- Dockerfile de l'application nuvolapp
 - Lien vers votre repository d'image docker (par exemple, vers le docker hub)
 - Jenkinsfile de la pipeline d'intégration continue
 - Manifestes kubernetes de déploiement de l'application
