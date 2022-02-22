@@ -73,4 +73,4 @@ Vous serez répartis en 3 groupes.
 - Groupe 3: Bruno, Maxime, François  
 
   
- Me remettre vos livrables sous forme d'une archive .zip par le moyen de votre choix au plus tard le *mardi 22 février, 18h* 
+ Me remettre vos livrables sous forme d'une archive .zip par le moyen de votre choix au plus tard le *mardi 22 février 2022, 18h* 
