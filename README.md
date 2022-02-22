@@ -70,9 +70,7 @@ Vous serez répartis en 3 groupes.
 
 - Groupe 1: Amine, Franck, Mouaad
 - Groupe 2: Jérôme, Aboubakr, Charly
-- Groupe 3: Bruno, Maxime, François
+- Groupe 3: Bruno, Maxime, François  
 
-Vous présenterez le projet l'après-midi du dernier jour.
-Durée de la présentation: environ 30 min par groupe.
-
-Vous devrez démontrer le bon fonctionnement de votre architecture et justifier vos choix techniques.
+  
+ Me remettre vos livrables sous forme d'une archive .zip par le moyen de votre choix au plus tard le *mardi 22 février, 18h* 
